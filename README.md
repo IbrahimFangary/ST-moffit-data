@@ -14,7 +14,7 @@ This project analyzes spatial transcriptomics data from the **preoptic region of
 
 * Analyze spatial relationships between clusters
 
-## Please read the [Spatial Transcriptomics of the Preoptic Region in Mouse Hypothalamus PDF](https://github.com/IbrahimFangary/ST-moffit-data/blob/64a4ad93bbe3d55b1d789ac0a05009f64cac306f/Spatial%20Transcriptomics%20of%20the%20Preoptic%20Region%20in%20Mouse%20Hypothalamus%20.pdf) for the full project details.
+## Please read the [Spatial Transcriptomics of the Preoptic Region in Mouse Hypothalamus PDF](https://github.com/IbrahimFangary/ST-moffit-data/blob/64a4ad93bbe3d55b1d789ac0a05009f64cac306f/Spatial%20Transcriptomics%20of%20the%20Preoptic%20Region%20in%20Mouse%20Hypothalamus%20.pdf) for the full project presentation.
 
 ## Repository Contents
 
